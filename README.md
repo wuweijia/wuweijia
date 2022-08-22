@@ -6,4 +6,14 @@ GitHub issues主要作为我的博客在使用，里面有一些关于开发和�
 
 [文章传送门](https://github.com/wuweijia/blog/issues)
 
-![cropped-2560-1440-585389](https://user-images.githubusercontent.com/10173268/141884498-a84eb9eb-5bbb-4703-9e35-f8b426af21c7.jpg)
+#### 书单
+1. 你不知道的JavaScript 【上中下】
+2. 图解HTTP
+3. css【世界、揭秘、秘密花园】
+4. JavaScript 语言精粹
+5. JavaScript 设计模式与开发实践
+6. 算法图解
+7. 凤凰项目
+8. JavaScript 忍者秘籍
+9. HTTP 权威指南
+10. SEO实战密码
