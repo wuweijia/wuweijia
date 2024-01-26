@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-> 🌱 你好。
+> 🌱 你好。 我叫吴伟佳，我是一名前端开发工程师。
 
 欢迎访问我的[博客](https://github.com/wuweijia/work-life-balance/issues)
 
