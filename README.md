@@ -10,8 +10,8 @@
 1. 《你不知道的JavaScript【上中下】》
 2. 《图解 HTTP》
 3. 《css【世界、揭秘、秘密花园】》
-4. 《avaScript 语言精粹》
-5. 《avaScript 设计模式与开发实践》
+4. 《JavaScript 语言精粹》
+5. 《JavaScript 设计模式与开发实践》
 6. 《算法图解》
 7. 《凤凰项目》
 8. 《程序是怎样跑起来的》
